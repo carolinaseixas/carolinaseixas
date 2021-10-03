@@ -5,7 +5,7 @@
 🌱 Atualmente estou estudando Python, Perl, HTML, CSS e Javascript
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 😄 Pronomes: ela/dela
-- ⚡ Quem sabe um dia eu una biologia e programação para fazer algo útil para a bioinformática... (mas ainda preciso aprender muito pra isso)
+<!-- - ⚡ Quem sabe um dia eu una biologia e programação para fazer algo útil para a bioinformática... (mas ainda preciso aprender muito pra isso) -->
 
 <div align="center">
   <a href="https://github.com/carolinaseixas">
