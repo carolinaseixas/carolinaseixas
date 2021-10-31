@@ -1,11 +1,11 @@
 ## Oláá! Eu sou a Carolina Seixas
 
-### Sou bióloga de formação, mas estou estudando para migrar para a área de programação.
+### Sou bióloga de formação e atualmente estudante de Análise e Desenvolvimento de Sistemas. #embuscadeestagio rsrs
 
-🌱 Atualmente estou estudando Python, Perl, HTML, CSS e Javascript
+🌱 Conhecimentos básicos em Python, HTML, CSS e Javascript.
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 😄 Pronomes: ela/dela
-<!-- - ⚡ Quem sabe um dia eu una biologia e programação para fazer algo útil para a bioinformática... (mas ainda preciso aprender muito pra isso) -->
+<!-- - ⚡ Quem sabe um dia eu una biologia e programação -->
 
 <div align="center">
   <a href="https://github.com/carolinaseixas">
@@ -18,7 +18,7 @@
   <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Carol-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Carol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Carol-Perl" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg">
+<!--   <img align="center" alt="Carol-Perl" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg"> -->
 <!--   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
 </div>
   
