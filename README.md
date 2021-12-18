@@ -2,7 +2,7 @@
 
 ### Sou bióloga de formação e atualmente estudante de Análise e Desenvolvimento de Sistemas. #embuscadeestagio rsrs
 
-🌱 Conhecimentos básicos em Python, HTML, CSS e Javascript.
+🌱 Conhecimentos básicos em Python, HTML, CSS e Power BI e noções de Java e Javascript.
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 😄 Pronomes: ela/dela
 <!-- - ⚡ Quem sabe um dia eu una biologia e programação -->
