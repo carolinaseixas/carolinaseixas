@@ -1,10 +1,10 @@
-## Oláá! Eu sou a Carolina Seixas
+## Oláá! Eu sou a Carolina!
 
-### Sou bióloga de formação e atualmente estudante de Análise e Desenvolvimento de Sistemas. #embuscadeestagio rsrs
+**Sou bióloga de formação e atualmente estudante de Análise e Desenvolvimento de Sistemas.** #embuscadeestagio rsrs
 
-🌱 Conhecimentos básicos em Python, HTML, CSS e Power BI e noções de Java e Javascript.
+🌱 Possuo conhecimento intermediário em Python, básico em HTML, CSS, Power BI, Git e SQL e noções de Java e Javascript.
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 😄 Pronomes: ela/dela
+😄 Pronomes: ela/dela
 <!-- - ⚡ Quem sabe um dia eu una biologia e programação -->
 
 <div align="center">
@@ -15,7 +15,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Carol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<!--   <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
   <img align="center" alt="Carol-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Carol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <!--   <img align="center" alt="Carol-Perl" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg"> -->
