@@ -1,16 +1,13 @@
 ## Oláá! Eu sou a Carolina!
 
-**Sou bióloga e também formada em Análise e Desenvolvimento de Sistemas. Trabalhei como desenvolvedora fullstack e como Product Owner.** 
+**Sou bióloga e também formada em Análise e Desenvolvimento de Sistemas. Trabalhei como desenvolvedora fullstack e como Product Owner. Atualmente também estudo ciência de dados e analytics.** 
 
 🌱 Possuo conhecimento intermediário em Python, Javascript, HTML e CSS e básico em Angular, Django e DRF, Power BI, Git e SQL.
 
 😄 Pronomes: ela/dela
 
-<a href="https://github.com/carolseixasvars?tab=overview&from=2022-12-01&to=2022-12-31">GitHub profissional (2022-2024)</a>
-
 <div align="center">
   <a href="https://github.com/carolinaseixas">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=carolinaseixas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinaseixas&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
